@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelerikWinFormsApp1", "TelerikWinFormsApp1\TelerikWinFormsApp1.csproj", "{01A7227A-4937-40F8-B1E7-35483CFAC75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A7227A-4937-40F8-B1E7-35483CFAC75D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{01A7227A-4937-40F8-B1E7-35483CFAC75D}.Debug|x86.ActiveCfg = Debug|x86
+		{01A7227A-4937-40F8-B1E7-35483CFAC75D}.Debug|x86.Build.0 = Debug|x86
+		{01A7227A-4937-40F8-B1E7-35483CFAC75D}.Release|Any CPU.ActiveCfg = Release|x86
+		{01A7227A-4937-40F8-B1E7-35483CFAC75D}.Release|x86.ActiveCfg = Release|x86
+		{01A7227A-4937-40F8-B1E7-35483CFAC75D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27B79740-F3D7-4986-86EC-8D0ED21F6FBA}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\TelerikWinFormsApp1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\source\repos\TelerikWinFormsApp1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\source\repos\TelerikWinFormsApp1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TelerikWinFormsApp1\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TelerikWinFormsApp1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\admin\source\repos\TelerikWinFormsApp1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

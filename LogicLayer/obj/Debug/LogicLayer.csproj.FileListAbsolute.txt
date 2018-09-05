@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\bin\Debug\LogicLayer.dll
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\bin\Debug\LogicLayer.pdb
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\obj\Debug\LogicLayer.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\obj\Debug\LogicLayer.dll
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\obj\Debug\LogicLayer.pdb
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\source\repos\TelerikWinFormsApp1\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
